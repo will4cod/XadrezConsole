@@ -7,8 +7,12 @@ namespace XadrezConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Jogo de xadrez");
+
+            Tabuleiro.Tabuleiro tab = new Tabuleiro.Tabuleiro(8, 8);
+
+            Tela.imprimirTabuleiro(tab);
         }
     }
 }
