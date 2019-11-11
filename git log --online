@@ -1,0 +1,29 @@
+[33mcommit 4886825a81341f998f3164c78c148098f7896116[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: William <william4fernandes@gmail.com>
+Date:   Mon Nov 11 14:16:02 2019 -0300
+
+    tratando erros com exception personalizada
+
+[33mcommit b3d60c40746d5d5bd4bc4754558f144f8356c45e[m
+Author: William <william4fernandes@gmail.com>
+Date:   Sun Nov 10 23:35:12 2019 -0300
+
+    comecando a implementar que imprimi o tabuleiro
+
+[33mcommit abbf1a43cda237b8931da6a2bcb11201a25db37d[m
+Author: William <william4fernandes@gmail.com>
+Date:   Sun Nov 10 23:12:21 2019 -0300
+
+    comecando a implementar o tabuleiro
+
+[33mcommit ba35c75133951b2c088027a7184f35df272af15f[m
+Author: William <william4fernandes@gmail.com>
+Date:   Sun Nov 10 23:02:48 2019 -0300
+
+    criada a classe posicao
+
+[33mcommit 6d1e548805451e138a6a3af8a6fef4e6a1b5736a[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: William <william4fernandes@gmail.com>
+Date:   Sun Nov 3 17:04:21 2019 -0300
+
+    Projeto criado
